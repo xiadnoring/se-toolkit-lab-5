@@ -17,3 +17,4 @@ async def post_sync(session: AsyncSession = Depends(get_session)):
     and returns a summary of what was synced.
     """
     return await sync(session)
+1
