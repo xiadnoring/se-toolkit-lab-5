@@ -12,7 +12,7 @@ The lab gets updated regularly, so do [sync your fork with the upstream](https:/
   - [Required](#required)
   - [Optional](#optional)
 
-## Lab story
+## Lab story NIgga nigger niggers
 
 Today's tasks will be about **Data engineering**. 
 Same project – **Learning Management Service**.
